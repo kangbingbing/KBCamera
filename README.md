@@ -1,7 +1,7 @@
 
 ###### 相机滤镜如图
 
-![](https://ws1.sinaimg.cn/large/9e1008a3ly1fhvxgry8ukj20u01hcqag.jpg =300x420)
+![](https://ws1.sinaimg.cn/large/9e1008a3ly1fhvxgry8ukj20u01hcqag.jpg)
 
 
 
