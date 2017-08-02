@@ -1,6 +1,8 @@
 
 ###### 相机滤镜如图
 
+详细介绍[点击这里](http://kangbingbing.com/%E5%9F%BA%E4%BA%8EGPUImage%E7%9A%84%E7%9B%B8%E6%9C%BA%E6%BB%A4%E9%95%9C/)
+
 ![](https://ws1.sinaimg.cn/large/9e1008a3ly1fhvxgry8ukj20u01hcqag.jpg)
 
 
